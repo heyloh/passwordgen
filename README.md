@@ -1,4 +1,4 @@
-# passwordgen
+# [passwordgen](https://heyloh.github.io/passwordgen/public/index.html)
 🔒 Gerador de senhas para fins de estudos. Utilizando JavaScript com Webpack e Babel.
 
 #### Foi estudado?
