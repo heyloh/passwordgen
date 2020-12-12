@@ -10,4 +10,4 @@
 - Manipulação da DOM
 
 ---
-Made with ❤️ by Lohana Torres.
+Feito com ❤️ por Lohana Torres.
